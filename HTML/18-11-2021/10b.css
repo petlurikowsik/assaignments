@@ -1,0 +1,85 @@
+.container{
+    width: 1400px;
+    margin: auto;
+    box-shadow: 1px 10px 10px rgb(192, 186, 186);
+}
+
+ul{
+    display: flex;
+    padding-right: 50px;
+    list-style-type: none;
+    gap: 40px;
+    color: rgb(100, 236, 225);
+    font-weight: bold;
+}
+
+.small{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 6px;
+}
+
+.small h3{
+    color: rgb(109, 131, 138);
+    padding-left: 50px;
+}
+
+.big img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.big{
+    text-align: center;
+    background-color: rgb(86, 226, 219);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    padding: 50px;
+}
+
+.first{
+    width: 1400px;
+    height: 600px;
+    display: flex;
+    line-height: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.one{
+    width: 800px;
+    padding: 50px;
+}
+
+.two{
+    width: 1000px;
+    padding: 50px;
+}
+
+.three{
+    width: 800px;
+    padding: 50px;
+}
+
+.food{
+    display: flex;
+    background-color: rgb(86, 226, 219) 
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.first h2{
+    color:rgb(36, 94, 112) ;
+}
+
+.first p{
+    color: rgb(12, 54, 94);
+}

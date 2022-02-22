@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://image.freepik.com/free-photo/various-colorful-stationery-school-office-pink-background-with-copyspace_127032-1753.jpg);
+    background-size: cover;
+}
+
+.container{
+    margin-top: 100px;
+}
+
+li{
+    font-size: 20px;
+}

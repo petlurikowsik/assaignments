@@ -1,0 +1,68 @@
+header ul{
+    list-style-type: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: whitesmoke;
+    padding: 20px;
+    font-weight: bold;
+    padding-left: 300px;
+    padding-right: 300px;
+
+}
+
+body{
+    background-image: url(https://cdn.wallpapersafari.com/48/22/RibAzy.jpg)
+}
+
+.parent img{
+    width: 125px;
+    height: 125px;
+    border-radius: 50%;
+}
+
+.child .one{
+    background-color: mediumorchid;
+}
+
+.child .two{
+    background-color: darkgoldenrod;
+}
+.parent p{
+    color: grey;
+}
+
+.child button{
+     text-align: center;
+     border-radius: 70px;
+     color: whitesmoke;
+     background-color: lightseagreen;
+     display: block;
+     margin: auto;
+     margin-top: 10px;
+}
+
+
+/* profiles parent */
+.parent{
+    
+    display: flex;
+    margin-top: 200px;
+    padding: 80px;
+    gap: 40px;
+}
+
+/* each profile parent */
+.parent .child{
+    width: 1500px;
+    box-shadow: 1px 1px 10px;
+    padding: 50px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+
+
+
+

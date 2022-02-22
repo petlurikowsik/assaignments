@@ -1,0 +1,21 @@
+label{
+    font-size: 20px;
+}
+
+input{
+    height: 45px;
+}
+
+select{
+    height: 45px;
+}
+
+button{
+    background-color: rgb(38, 93, 165);
+    color: whitesmoke;
+    padding: 10px;
+}
+
+.container{
+    margin-top: 100px;
+}

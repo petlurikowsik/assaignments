@@ -1,0 +1,11 @@
+
+.card:hover{
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(109, 180, 221, 0.534), 0 4px 8px rgba(0,0,0,.06);
+}
+
+.btn:hover{
+    color: white;
+    background-color: rgb(75, 148, 207);
+}
+

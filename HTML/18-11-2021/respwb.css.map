@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,MAAM,CAAA;EACF,KAAK,EAAE,OAAgB;EACvB,gBAAgB,EAAE,UAAU;EAC5B,OAAO,EAAE,GAAG;CACf;;AAED,AAAA,QAAQ,CAAA;EACJ,gBAAgB,EAAE,GAAG;CACxB",
+    "sources": [
+        "respwb.scss"
+    ],
+    "names": [],
+    "file": "respwb.css"
+}

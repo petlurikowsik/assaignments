@@ -1,0 +1,67 @@
+body{
+    background-color: wheat;
+}
+
+.emp h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.profile img{
+    width:175px;
+    height: 175px;
+    border-radius: 50%;
+}
+
+/* emp profile parent */
+.profile{
+    display: flex;
+    justify-content: space-evenly ;
+    margin-top: 150px;
+    position: relative;
+
+}
+
+/* each emp profile */
+.profile .emp{
+    width: 250px;
+    box-shadow: 3px 3px 40px rgb(102, 100, 100);
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(231, 124, 142);
+    border-radius: 20px;
+}
+
+.profile h2{
+    color: rgb(236, 215, 93);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.profile p{
+    color: whitesmoke;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* fb icon */
+.profile .emp .one{
+    width: 65px;
+    height: 65px;
+    position: absolute;
+    bottom: 0px;
+    margin: -30px;
+}
+
+/* linkedin icon */
+.emp{
+    position: relative;
+}
+
+
+.emp .first{
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    position: absolute;
+    top: -25px;
+    right: 30px;
+}

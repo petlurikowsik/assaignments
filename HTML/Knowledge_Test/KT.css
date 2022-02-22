@@ -1,0 +1,36 @@
+.parent{
+    background-color: rgb(192, 126, 102);
+}
+
+img{
+    height: 250px;
+    width: 350px
+}
+
+.child{
+    display: flex;
+    flex-direction: column;
+}
+
+.btn{
+    width: 90px;
+    height: 40px;
+    margin-top: 10px ;
+}
+
+.heading{
+    background-color: rgb(151, 122, 49);
+    color: darkgray;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items: center;
+    gap: 20px;
+    background-color: darkgoldenrod;
+    
+}

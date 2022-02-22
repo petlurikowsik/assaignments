@@ -1,0 +1,25 @@
+.hi{
+    color: red;
+}
+
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.hello{
+    color: rgb(173, 40, 40);
+}
+
+
+div{
+    display: flex;
+}
+
+div p{
+    margin: 5px;
+}

@@ -1,0 +1,13 @@
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+.image{
+    width: 70px;
+}
+
+.header{
+    background-color: cadetblue;
+}
